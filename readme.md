@@ -7,5 +7,5 @@ UTC時刻(1970/1/1からの経過時間(ms))とISO時刻表記(`yyyy-MM-DDThh:mm
 ## テスト
 
 ```shell
-$Deno test
+$deno test
 ```
